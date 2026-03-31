@@ -1,20 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Music App",
-    "developer": "Kasap Studio",
-    "iconUrl": "https://raw.githubusercontent.com/kullanici/repo/main/images/app1.png",
-    "description": "Muzik dinleme uygulamasi",
-    "downloadUrl": "https://github.com/kullanici/repo/releases/download/v1/app1.apk",
-    "category": "Music"
-  },
-  {
-    "id": 2,
-    "name": "Chat App",
-    "developer": "Kasap Studio",
-    "iconUrl": "https://raw.githubusercontent.com/kullanici/repo/main/images/app2.png",
-    "description": "Mesajlasma uygulamasi",
-    "downloadUrl": "https://github.com/kullanici/repo/releases/download/v1/app2.apk",
-    "category": "Social"
+    "name": "Deneme App",
+    "developer": "BlackMan Studio",
+    "iconUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/main/images/deneme.png",
+    "description": "Deneme uygulamasi",
+    "downloadUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/main/dowloads/deneme.apk",
+    "category": "Tools"
   }
 ]
