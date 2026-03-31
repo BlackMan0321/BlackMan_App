@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Deneme App",
+    "name": "Happy Mod",
     "developer": "BlackMan Studio",
-    "iconUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/main/images/deneme.png",
-    "description": "Deneme uygulamasi",
-    "downloadUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/main/dowloads/deneme.apk",
+    "iconUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/refs/heads/main/images/happymod.png",
+    "description": "Happy Mod",
+    "downloadUrl": "https://github.com/BlackMan0321/BlackMan_App/raw/refs/heads/main/apks/happymod.apk",
     "category": "Tools"
   }
 ]
