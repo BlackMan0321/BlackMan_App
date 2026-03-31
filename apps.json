@@ -6,6 +6,8 @@
     "iconUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/refs/heads/main/images/happymod.png",
     "description": "Happy Mod",
     "downloadUrl": "https://github.com/BlackMan0321/BlackMan_App/raw/refs/heads/main/apks/happymod.apk",
-    "category": "Tools"
+    "category": "Tools",
+    "version": "1.0.1",
+    "versionCode": 2
   }
 ]
