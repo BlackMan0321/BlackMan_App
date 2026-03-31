@@ -1,11 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Happy Mod",
+    "name": "BlackMan Hack",
     "developer": "BlackMan Studio",
-    "iconUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/refs/heads/main/images/happymod.png",
-    "description": "Happy Mod",
-    "downloadUrl": "https://github.com/BlackMan0321/BlackMan_App/raw/refs/heads/main/apks/happymod.apk",
+    "iconUrl": "https://raw.githubusercontent.com/BlackMan0321/BlackMan_App/main/images/blackmanhack.png",
+    "downloadUrl": "https://github.com/BlackMan0321/BlackMan_App/raw/main/apks/blackmanhack.apk",
     "category": "Tools",
     "version": "1.0.1",
     "versionCode": 2
