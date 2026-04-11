@@ -1,12 +1,7 @@
 [
   {
     "key": "ABC123",
-    "device_id": "kullanicinin_device_id_degeri",
+    "device_id": "b94a085812b38964z",
     "finish_date": "2026-04-18"
-  },
-  {
-    "key": "XYZ789",
-    "device_id": "diger_device_id",
-    "finish_date": "2026-05-11"
   }
 ]
